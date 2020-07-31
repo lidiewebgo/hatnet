@@ -428,11 +428,18 @@ a#scrollUp:hover {
     height: 100%;
     z-index: 99;
 }
-.slider-content h2{
+.slider-items:nth-of-type(1) .slider-content h2{
     font-size: 80px;
     font-weight: 700;
     line-height: 85px;
     color: #3C3C3C;
+    margin-bottom: 25px;
+}
+.slider-items:nth-of-type(2) .slider-content h2{
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 85px;
+    color: #ffff;
     margin-bottom: 25px;
 }
 .slider-content h2 span{
