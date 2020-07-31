@@ -21,6 +21,7 @@
  ========================================================================================================*/
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700,700i|Roboto:300,300i,400,400i,500,700,900');
+
 * {
     margin: 0;
     padding: 0;
@@ -431,7 +432,7 @@ a#scrollUp:hover {
     font-size: 80px;
     font-weight: 700;
     line-height: 85px;
-    color: #fff;
+    color: #3C3C3C;
     margin-bottom: 25px;
 }
 .slider-content h2 span{
@@ -440,7 +441,7 @@ a#scrollUp:hover {
     padding: 10px 10px;
 }
 .slider-content p{
-    color: #fff;
+    color: #3C3C3C;
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 40px;
